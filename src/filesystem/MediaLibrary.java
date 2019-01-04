@@ -12,6 +12,7 @@ public class MediaLibrary implements Comparable<MediaLibrary> {
 
     private static final Pattern[] MUSIC_FILENAME_PATTERNS = {
             Pattern.compile("(.*)\\.mp3", Pattern.CASE_INSENSITIVE),
+            Pattern.compile("(.*)\\.flac", Pattern.CASE_INSENSITIVE),
             Pattern.compile("(.*)\\.wav", Pattern.CASE_INSENSITIVE),
             Pattern.compile("(.*)\\.ogg", Pattern.CASE_INSENSITIVE),
             Pattern.compile("(.*)\\.aif", Pattern.CASE_INSENSITIVE),
