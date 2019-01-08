@@ -3,6 +3,7 @@
 Map one-to-one your directory structure to Serato parent crates and subcrates (also works with Scratch Live).
 
 Latest version [0.1.5](https://github.com/sero53/serato-itch-sync/tree/master/distr/0.1.5) tested with Serato DJ Pro 2.1.0
+
 Working on a [new version here](https://github.com/sero53/serato-sync)
 
 Original see: [https://github.com/ralekseenkov/serato-sync-old](https://github.com/ralekseenkov/serato-sync-old/)
